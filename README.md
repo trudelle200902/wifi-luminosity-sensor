@@ -1,0 +1,1 @@
+since this is a public github repo the credentials are stored in a file named wifi_config.h that is in the .gitignore for first time use copy wifi_config_template.h and rename it to wifi_config.h and enter your credentials in the file MAKE SURE wigi_config.h IS IN .gitignore BEFORE PUSHING
